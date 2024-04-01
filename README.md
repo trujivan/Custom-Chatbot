@@ -26,7 +26,7 @@ To run the code and interact with the chatbot, follow the instructions provided 
 
 Feel free to explore the code and experiment with different queries to experience the capabilities of the custom chatbot firsthand.
 
-For any questions or feedback, please contact Vanessa Trujillo at [email@example.com](mailto:vanessa-trujillo@outlook.com).
+For any questions or feedback, please contact Vanessa Trujillo at [vanessa-trujillo@outlook.com](mailto:vanessa-trujillo@outlook.com).
 
 ---
 
